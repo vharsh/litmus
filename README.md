@@ -5,7 +5,7 @@
 
 Litmus is chaos engineering for stateful workloads on Kubernetes -> hopefully without learning curves.  Our vision includes  enabling end users to quickly specify needed scenarios using English descriptions.
 
-https://www.openebs.io/litmus
+
 
 ## Overview
 
